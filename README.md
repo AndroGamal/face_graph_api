@@ -19,14 +19,17 @@ samples, guidance on mobile development, and a full API reference.
 - 1 - this is screen opened in application .<br>
 - 2 - this is empty becouse no post in mypage .<br>
 - 3 - this Application use graph API using access toke to get extend access token and save it in SharedPreferences and using access token to get posts in my page facebook and you use buton go to start new post when you enter agan this application use extend access token that saved in SharedPreferences .<br>
-<p align="center"><img src="/image/Screenshot_start.png" /></p><br>
+<p align="center"><img src="/image/Screenshot_start.png"></p> <br>
+
 - 1 - this page is show when push button go .<br>
 - 2 - use Text Field to set massage and application use http to set url .<br>
 - 3 - use button go to push your poet to graph API and show in facebook page .<br>
 <p align="center"><img src="/image/Screenshot_start2.png"></p> <br>
+
 - 1 - this page show your post in page .<br>
 - 2 - this toast show if done or fail , the colour is green if success or fail colour is red.<br>   
 <p align="center"><img src="/image/Screenshot_start3.png"></p> <br>
+
 - use delete icon to delete post from page facebook<br>
 <p align="center"><img src="/image/Screenshot_end.png"></p>
 
